@@ -1,1 +1,12 @@
+# This logistics program aims to help its user manage their business's resources, services, and finances optimally.
 
+# At start up the program opens in a menu welcoming its user to find easily what they are looking for.
+The main menu is divided into 4 main classes: a) Client managing, b) Stuff managing, c) Corp. managing, and last but not least d) Finance managing.
+
+# Those 4 main classes are divided into other smaller subclasses for the sake of the convenience of the user.
+
+# Class A) brakes down to 2 subclasses
+a) Insert new client(type, sqm, address)
+b) Modify client settings
+
+# Class B) brakes down to 2 subclasses
