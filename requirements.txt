@@ -1,1 +1,17 @@
-
++What will the project accomplish that is not currently accomplished manually or with other projects/software?
++What problems should this project/system solve?
++What department/business requirements will this project/system address?
++Who are the key stakeholders and users?
+  o Do their goals differ?
+  o If so, how?
++What resources might be needed (budget, staff, etc)
++Will the new project/system help you be more efficient?
+  o To what extent?
++What is most important (rank in order of importance):
+  o Application is easier to use
+  o Application has nicer front-end
+  o Application has additional functionality (list)
+  o Application is more efficient
+  o Application is redesigned to better reflect the business
++Is there any existing project/system documentation?
+  o If so, where?
